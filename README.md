@@ -1,1 +1,9 @@
-# phpinfo-parser
+## usage
+
+see examples folder
+
+---
+
+## License
+
+MIT
